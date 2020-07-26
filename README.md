@@ -1,14 +1,14 @@
-## 👋 Hi, I'm Hayden.
+### 👋 Hi, I'm Hayden.
 
 🛠 I'm a full-stack developer and ametur graphics designer from the East Midlands, UK.
 
-### 📌 I'm Currently...
+#### 📌 I'm Currently...
 
 - #️⃣ Learning some more C#;
 - 🤖 Working on a modular Twitch bot;
 - 🏖 On holiday.
 
-### 📬 Contact
+#### 📬 Contact
 
 ✉️ You can contact me using the following methods:
 
