@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Hayden.
 
-🛠 I'm a full-stack developer and amateur graphics designer from the East Midlands, UK.
+I'm a full-stack developer and amateur graphics designer from the East Midlands, UK.
 
 #### 📌 I'm Currently...
 
@@ -10,7 +10,7 @@
 
 #### 📬 Contact
 
-✉️ You can contact me using the following methods:
+You can contact me using the following methods:
 
 - 📨 Email - hayden@htbrown.com
 - 🐦 Twitter - [@thehtbrown](https://twitter.com/thehtbrown)
