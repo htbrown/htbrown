@@ -13,4 +13,4 @@
 ✉️ You can contact me using the following methods:
 
 - 📨 Email - hayden@htbrown.com
-- 🐦 Twitter - @thehtbrown
+- 🐦 Twitter - [@thehtbrown](https://twitter.com/thehtbrown)
