@@ -6,6 +6,7 @@ I'm a full-stack developer and amateur graphics designer from the East Midlands,
 
 - #️⃣ Learning some more C#;
 - 🤖 Working on a modular Twitch bot;
+- ✨ Planning a commit emoji standard;
 - 🏖 On holiday.
 
 #### 📬 Contact
