@@ -5,7 +5,7 @@ I'm a full-stack developer and amateur graphics designer from the East Midlands,
 #### 📌 I'm Currently...
 
 - #️⃣ Learning some more C#;
-- 🌳 Working on an automated garden watering system.
+- 🐦 Working on Multa.
 
 #### 📬 Contact
 
