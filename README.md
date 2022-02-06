@@ -15,7 +15,7 @@ You can contact me using the following methods:
 - 🎮 Discord - hayden#7084
 
 #### Quick Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htbrown)](https://htbrown.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htbrown&layout=compact)](https://htbrown.com)
 
 
 https://htbrown.com
