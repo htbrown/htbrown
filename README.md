@@ -14,8 +14,4 @@ You can contact me using the following methods:
 - 📨 Email - hayden@htbrown.com
 - 🎮 Discord - hayden#7084
 
-#### Quick Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htbrown&layout=compact)](https://htbrown.com)
-
-
 https://htbrown.com
